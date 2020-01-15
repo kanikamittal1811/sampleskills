@@ -1,0 +1,23 @@
+{
+  "name": "skills",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanikamittal1811/sampleskills.git"
+  },
+  "author": "kanika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanikamittal1811/sampleskills/issues"
+  },
+  "homepage": "https://github.com/kanikamittal1811/sampleskills#readme",
+  "dependencies": {
+    "alexa-app": "^4.2.3"
+  },
+  "devDependencies": {}
+}
